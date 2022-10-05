@@ -731,7 +731,7 @@ keyboard.inline_keyboard = {
 {text = '• صلاح مبرمج السورس •', url = 't.me/BK_ZT'},
 },
 {
-{text = '• المطور مارلو •', url = 't.me/M_A_RLO_W},
+{text = '• المطور مارلو •', url = 't.me/M_A_RLO_W'},
 },
 {
 {text = '• قناة التحديثات •', url = 't.me/SR_TeleGod'},
